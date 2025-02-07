@@ -8,8 +8,8 @@ file. The directory must be named in the following format:
 The program then sets the following mp3 tags:
 
 - artist = `Firstname Lastname`
-- album = `2025-02-01 Firstname Lastname Topic Discussed`
-- title = `2025-02-01 Firstname Lastname Topic Discussed`
+- album = `2025-02-01 - Firstname Lastname - Topic Discussed`
+- title = `2025-02-01 - Firstname Lastname - Topic Discussed`
 - recording date = `2025-02-01`
 
 ## Install:
