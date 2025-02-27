@@ -22,3 +22,7 @@ The program then sets the following mp3 tags:
 ## To use:
 
 `python combine-mp3.py 2025-02-01_first-last_some-topic`
+
+## TODO:
+
+- [ ] - support m4b
