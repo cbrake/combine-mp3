@@ -82,7 +82,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     input_dir = args.input_dir.rstrip('/')
-    output_file = input_dir + ".mp3"
+    output_file = input_dir.lower() + ".mp3"
 
     merge_mp3_files(input_dir, output_file)
     add_tags(output_file)
